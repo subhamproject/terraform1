@@ -1,0 +1,11 @@
+variable "ACCESS_KEY" {}
+variable "SECRET_KEY" {}
+variable "REGION" {}
+variable "AMI" {}
+variable "TYPE" {}
+variable "USER" {}
+variable "PEM" {}
+variable "VPCCIDR" {}
+variable "TENANCY" {}
+#variable "VPCID" {}
+variable "SUBNET_CIDR" {}
